@@ -7,7 +7,7 @@ Este projeto é um desafio do curso de Javascript da b7web, com ele pude pratica
 
 ## Layout 
 
-<img src="Desing/Design.png">
+<img src="Design/Design.png">
 
 
 ## Licença
