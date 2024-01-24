@@ -9,14 +9,6 @@ Este projeto é um desafio do curso de Javascript da b7web, com ele pude pratica
 
 <img src="Design/Design.png">
 
-
-## Licença
-
-<p> Este projeto esta sob licença MIT </p>
-# Clima JS
-
-![Imagem do projeto](Design/Design.png)
-
 ## Introdução
 
 O projeto Clima JS foi desenvolvido como parte de um desafio do curso de Javascript da b7web. Ele tem como objetivo praticar as habilidades de manipulação do DOM usando JavaScript. A principal tarefa desse projeto foi realizar uma requisição à API do OpenWeather para obter informações sobre o clima.
